@@ -1,5 +1,5 @@
 # imersao_dev_aluragoogle
-início da criação de uma página de pesquisa para praticar ensinamentos passados na imersão_dev da Alura.
+início da criação de uma página de pesquisa para praticar ensinamentos passados na Imersao_Dev da Alura.
 
 A idéia da página é realizar pesquisa sobre o artesanato brasileiro.
 A pesquisa pode ser feita através do tipo de artesanato, material ou técnica utilizada.
